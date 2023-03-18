@@ -1,0 +1,26 @@
+Built In types of JS
+
+      JS
+    ------
+  1. Number
+  2. Boolean
+  3. String
+  4. null
+  5. object
+  6. undefined
+
+
+      TS
+    ------
+  1. Number
+  2. Boolean
+  3. String
+  4. null
+  5. object
+  6. undefined
+
+  7.  Any
+  8.  unknown
+  9.  never
+  10. enum
+  11. every
